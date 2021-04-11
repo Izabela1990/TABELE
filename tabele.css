@@ -1,0 +1,23 @@
+table{
+    border-style: solid;
+    border-color: blue;
+    border-spacing: 0;
+    border-collapse: collapse;
+    font-family: sans-serif;
+
+
+}
+
+td{
+    border-style: solid;
+    border-color: brown;
+    padding: 0,5em;
+}
+
+th{
+    border-style: solid;
+    border-color: yellow;
+    background-color: teal;
+    color: violet;
+
+}

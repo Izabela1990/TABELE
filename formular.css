@@ -1,0 +1,17 @@
+input{
+    display: block;
+    margin:o,2 em 0,7em 0;
+}
+
+button{
+    display: block;
+}
+
+label{
+    font-family: sans-serif;
+}
+
+textarea{
+    display: block;
+}
+
